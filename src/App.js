@@ -10,11 +10,17 @@ export default function App() {
         <Weather />
         <footer>
           This project was coded by {""}
-          <a href="#" target="-blank">
+          <a
+            href="https://github.com/jovi-bih/react-weather-app"
+            target="-blank"
+          >
             Bih Jovi
           </a>
           {""} and is {""}
-          <a href="#" target="-blank">
+          <a
+            href="https://github.com/jovi-bih/react-weather-app"
+            target="-blank"
+          >
             open-sourced
           </a>
         </footer>
